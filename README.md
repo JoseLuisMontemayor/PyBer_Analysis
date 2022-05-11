@@ -8,7 +8,7 @@ The purpose of this analysis is to find the relationship in several aspects betw
 
 After the results, it is evident that more than 50% of the business depends on the Urban spaces. We can see the total rides, total drivers and total fares have a predominant space. PyBer needs it´s almost complete attention on this business. It is followed by the suburban area, it is also important since the average fare per ride and the average fare per driver is more elevated than the Urban ones. And also to notice, that the average fares from the rural areas are even more higher, due to the less demand and the total drivers in which they surround. 
 
-insert total_summary*
+![](https://github.com/JoseLuisMontemayor/PyBer_Analysis/blob/main/analysis/total_summary.PNG)
 
 To have a better visual of the last data, with the following image we can see the data of the distribution of total rides, for which the majority as mentioned is the Urban type (68.4%), followed by the Suburban by (26.3%) and the Rural with 5.3%.
 
