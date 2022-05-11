@@ -20,7 +20,7 @@ Next we can see the total drivers by City type, first the Urban with 80.9%, foll
 
 Then we can see the total fares by City Type, first the Urban with 62.7%, after the Suburban with 30.5% and the Rural with 6.8%. We need to take into account that even though the Urban have the majority of the total fares, the rural has the highest average fares, thanks to their demand and their total drivers. 
 
-*insert Fig5
+![](https://github.com/JoseLuisMontemayor/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 ### Total Fare by City Type
 
