@@ -12,7 +12,7 @@ insert total_summary*
 
 To have a better visual of the last data, with the following image we can see the data of the distribution of total rides, for which the majority as mentioned is the Urban type (68.4%), followed by the Suburban by (26.3%) and the Rural with 5.3%.
 
-insert Fig6
+![](https://github.com/JoseLuisMontemayor/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 Next we can see the total drivers by City type, first the Urban with 80.9%, followed by the Suburban with 16.5% and then the Rural with a minimum of 2.6%.
 
