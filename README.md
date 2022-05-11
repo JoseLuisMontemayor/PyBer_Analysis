@@ -26,6 +26,8 @@ Then we can see the total fares by City Type, first the Urban with 62.7%, after 
 
 We can see that the results of the total fare by city type are not as different as we have seen before. For the Urban type it starte in January over $1,500 and has a little increase until March, which varies but continues with a sustainable trend. Then we have the Suburban Type, which starts over $500 and has a variation that not goes over $1,500 but ends with a positive trend. Then we have the Rural al the bottom, which starts over $0 and has a similar trend as the Suburban, it does not pass over $500. Visually a similar trend for in a high scope for the three types of cities.
 
+![](https://github.com/JoseLuisMontemayor/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 ### Summary
 
 We can conclude after all this information, that the most important model for the company is the Urban one. It contains more than 50% of the business and would think that if any decisions were made, the first market that it needs to suit is the Urban. The average fares may be lower in the Urban, but thanks to the volume they have it is sustainable for the business. Also if they would want to increase participation in the other two markets they could decrease fares and have more drivers to have a better service. 
